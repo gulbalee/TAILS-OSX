@@ -161,6 +161,16 @@ Notes: Works with USB mouse and keyboard
 
 Notes: Works with USB mouse and keyboard
 
+## MacBook Air 13 inch, Mid 2013 (MacBookAir6,2)
+
+* **boots** yes
+
+* **wifi** no
+
+* **trackpad** yes
+
+Notes: No wifi even with MAC spoofing disabled
+
 # Have you tested this on a platform that isn't listed above?
 
 Send a pull request to this repository that includes your model identifier and which things work and don't work.
